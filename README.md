@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bielz_dev/) 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white) 
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVasco13&show_icons=true&theme=radical)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVasco13&show_icons=true&theme=radical) 
 
 ## Tecnologis que utilizo
 
