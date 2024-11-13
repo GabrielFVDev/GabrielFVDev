@@ -22,9 +22,10 @@
 
 ### Sobre mim
 Desde os 16 anos que me dedico à área da programação, e comecei a gostar de desenvolver quando criei meus primeiros aplicativos em Flutter.</br>
-Em meus projetos, utilizei Firebase para autenticação e armazenamento de dados, e o cubit para o gerenciamento de estados, garantindo segurança e o funcionamento do aplicativo.</br>
-Atualmente, com 19 anos, curso minha graduação em "Análise e Desenvolvimento de Sistemas".</br>
-Ando adquirido novos conhecimentos e habilidades, tanto nas salas de aula da faculdade, como no desenvolvimento de alguns aplicativos.
+Atualmente, com 19 anos, faço graduação em "Análise e Desenvolvimento de Sistemas".</br>
+Ultimamente adquirido muitos conhecimentos e habilidades, tanto nas salas de aula da faculdade, como fazendo alguns projetos a parte ou ajudando no desenvolvimento de projetos de outras pessoas. </br>
+
+:)
 
 ### Informações para contato
 
