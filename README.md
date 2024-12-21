@@ -5,7 +5,7 @@
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bielz_dev/) -->
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVasco13&show_icons=true&theme=radical) 
 
-## Tecnologis que utilizo
+## Tecnologias que utilizo
 
 
 <div style="display: inline_block"><br/>
@@ -26,7 +26,3 @@ Atualmente, com 19 anos, faço graduação em "Análise e Desenvolvimento de Sis
 Ultimamente adquirido muitos conhecimentos e habilidades, tanto nas salas de aula da faculdade, como fazendo alguns projetos a parte ou ajudando no desenvolvimento de projetos de outras pessoas. </br>
 
 :)
-
-### Informações para contato
-
-- Email -> Gabrielvasco906@gmail.com 
