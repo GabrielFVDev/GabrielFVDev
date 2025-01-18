@@ -40,10 +40,6 @@ I'm a passionate developer with a love for technology and innovation, experience
 - [**Portfolio**](https://github.com/GabrielVasco13/portifolio): I made this because i was challenged.
 
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielVasco13&show_icons=true&theme=dracula)
-
 ## Contact Me
 
 Let's connect and collaborate on exciting projects! You can find me on <a href="https://www.linkedin.com/in/gabrielvasco906/">LinkedIn</a>.
