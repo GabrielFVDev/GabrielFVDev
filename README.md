@@ -4,12 +4,10 @@
 
 I'm a passionate developer with a love for technology and innovation, experienced in web and mobile development. Always seeking new challenges and opportunities to learn and grow professionally.
 
-- 🔭 Currently working on open-source projects.
-- 🌱 Learning more about API development and microservices.
-- 💬 Ask me about Flutter, React, PHP, and JavaScript.
-- ⚡ Fun fact: I'm a big sci-fi fan and love binge-watching series in my free time.
-
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielVasco13&show_icons=true&theme=radical) 
+- 🔭 Currently working on NZest.
+- 🌱 Learning more about API development and beautiful interfaces.
+- 💬 Ask me about Flutter, React, Kotlin and JavaScript.
+- ⚡ Fun fact: I'm a big Hajime no ippo fan and love binge-watching series in my free time.
 
 ## Technologies and Tools
 
