@@ -4,7 +4,7 @@
 
 I'm a passionate developer with a love for technology and innovation, experienced in web and mobile development. Always seeking new challenges and opportunities to learn and grow professionally.
 
-- 🔭 Currently working on NZest.
+- 🔭 Currently looking for a new job.
 - 🌱 Learning more about API development and beautiful interfaces.
 - 💬 Ask me about Flutter, React, Kotlin and JavaScript.
 - ⚡ Fun fact: I'm a big Hajime no ippo fan and love binge-watching series in my free time.
