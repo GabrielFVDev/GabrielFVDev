@@ -33,7 +33,8 @@ I'm a passionate developer with a love for technology and innovation, experience
 
 ## Featured Projects
 
-- [**AluraFlix**](https://github.com/GabrielVasco13/aluraflix): The proposal of this repository was a challenge proposed by the course.
+- [**FinanceFit**](https://github.com/GabrielFVDev/financeFit): The proposal of this repository was a challenge proposed by the course.
+- [**MatchBook**](https://github.com/GabrielFVDev/MatchBook): The proposal of this repository was a challenge proposed by the course.
 - [**To-Do App**](https://github.com/GabrielVasco13/todo_mvvm): Its a ToDo app using the architecture MVVM.
 - [**Portfolio**](https://github.com/GabrielVasco13/portifolio): I made this because i was challenged.
 
