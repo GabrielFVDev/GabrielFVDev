@@ -1,53 +1,92 @@
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/GabrielVasco13)
+<p align="center">
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:3DDC84&height=180&section=header&text=Gabriel%20Ferreira%20Vasconcelos&fontSize=34&fontColor=ffffff&animation=fadeIn" alt="Gabriel Ferreira Vasconcelos" /></a>
+</p>
 
-## About Me
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=3DDC84&center=true&vCenter=true&width=560&lines=Mobile+Developer;Flutter+%C2%B7+Kotlin+%C2%B7+Jetpack+Compose;Accessible+apps+for+everyone" alt="Mobile Developer · Flutter · Kotlin · Jetpack Compose · Accessible apps for everyone" /></a>
+</p>
 
-I'm a passionate developer with a love for technology and innovation, experienced in web and mobile development. I enjoy building clean, maintainable code and attractive user interfaces. Always seeking new challenges and opportunities to learn and grow professionally.
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabrielfvdev/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://gabrielfvdev.github.io/portfolio/" title="Portfolio"><img src="https://skillicons.dev/icons?i=htmx" height="40" alt="Portfolio" /></a>
+</p>
 
-- 🔭 Currently looking for a new job.
-- 🌱 Learning more about API development and beautiful interfaces.
-- 💬 Ask me about Flutter, React, Kotlin and JavaScript.
-- ⚡ Fun fact: I'm a big *Hajime no Ippo* fan and love binge-watching series in my free time.
+## 👋 About me
 
----
+Mobile developer with **3+ years** building accessible, well-structured apps — from **fintech** to **streaming** and **pet-tech**. I care about reusable components, clean architecture and apps that everyone can use.
 
-## Technologies & Tools
+- 📍 São Paulo, Brazil
+- 🤝 Staff at **Flutterando**, one of Brazil's largest Flutter communities
+- 🎓 Systems Analysis and Development — UMC
+- 🥊 Big *Hajime no Ippo* fan · 🐈 two cats
 
-<div style="display:flex;flex-wrap:wrap;gap:8px;align-items:center;">
+## 🛠️ Tech stack
 
-### Frameworks / Libraries
-<img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="center" alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack_Compose-000000?style=for-the-badge&logo=android&logoColor=white" />
-<img align="center" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<table>
+  <tr>
+    <td><b>Mobile</b></td>
+    <td><img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase" alt="Flutter, Dart, Kotlin, Android Studio, Firebase" /></td>
+  </tr>
+  <tr>
+    <td><b>Backend</b><br /><sub><i>learning</i></sub></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,mysql,docker" alt="Java, Spring Boot, MySQL, Docker" /></td>
+  </tr>
+  <tr>
+    <td><b>Tools &amp; web</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,figma,react,ts" alt="Git, GitHub, Figma, React, TypeScript" /></td>
+  </tr>
+</table>
 
-<br>
+## 🚀 Featured projects
 
-### Languages
-<img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-<img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Stack</th>
+  </tr>
+  <tr>
+    <td>
+      <!-- <img src="assets/hydrate.png" width="90" align="left" alt="Hydrate home screen with daily water goal progress" /> -->
+      <b>Hydrate</b><br />
+      Hydration reminder with daily goal and scheduled notifications
+    </td>
+    <td>Kotlin · Jetpack Compose · Flow · WorkManager</td>
+  </tr>
+  <tr>
+    <td>
+      <!-- <img src="assets/matchbook.png" width="90" align="left" alt="MatchBook book suggestion screen" /> -->
+      <b><a href="https://github.com/GabrielFVDev/matchbook-api">MatchBook</a></b><br />
+      Book recommendations that adapt as you accept or reject suggestions
+    </td>
+    <td>Java 17 · Spring Boot 3 · MySQL · React</td>
+  </tr>
+  <tr>
+    <td>
+      <!-- <img src="assets/financefit.png" width="90" align="left" alt="FinanceFit dashboard" /> -->
+      <b><a href="https://github.com/GabrielFVDev/financeFit-api">FinanceFit</a></b><br />
+      Personal finance tracker
+    </td>
+    <td>Java · TypeScript</td>
+  </tr>
+</table>
 
-</div>
+## 📌 Currently
 
----
+- 📚 Learning backend with **Java + Spring Boot**, SQL performance and automated testing
+- 🚧 Refactoring **MatchBook** and taking it to production
 
-## Featured Projects
+<details>
+<summary><b>💼 Experience</b></summary>
 
-- [**FinanceFit**](https://github.com/GabrielFVDev/financeFit) — Project developed to help you to control more your finances.
-- [**FinanceFit API**](https://github.com/GabrielFVDev/financeFit-api) — An API project to improve the front end project.
+<br />
 
-- [**MatchBook**](https://github.com/GabrielFVDev/MatchBook) — Project that helps you choose your next book.
-- [**MatchBook API**](https://github.com/GabrielFVDev/matchbook-api) — API for the MatchBook.
+- **Coflint** — Mobile Developer (Flutter) · pet-tech · 2026
+- **nZest** — Flutter Developer · fintech app, Melos monorepo, accessibility · 2023–2025
+- **PlayFlix** — Flutter Intern · streaming app, BLoC, Clean Architecture · 2022–2023
 
-- [**To-Do App (MVVM)**](https://github.com/GabrielVasco13/todo_mvvm) — ToDo app implemented using the MVVM architecture.
-- [**Portfolio**](https://github.com/GabrielVasco13/portifolio) — Personal portfolio website.
+</details>
 
-## Contact
-
-Let's connect and collaborate on exciting projects!  
-[LinkedIn](https://www.linkedin.com/in/gabrielvasco906/) · [GitHub](https://github.com/GabrielFVDev)
-
----
+<p align="center">
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:3DDC84&height=100&section=footer" alt="" /></a>
+</p>
